@@ -41,22 +41,22 @@ Role: ATmega328 prototype, compact PCB layout, NFC contact handoff, demo firmwar
 ## Experience
 
 * **Apple — Hardware Systems Engineer (Intern)** · May–Aug 2024 · Cupertino, CA
-  Designed JTAG breakout PCBs, current-sensing circuits, and 100 MHz probing; led board bring-up and automated characterization with Python.
+  - Designed JTAG breakout PCBs, current-sensing circuits, and 100 MHz probing; led board bring-up and automated characterization with Python.
 
 * **Atomic Semi — Electromechanical Engineer (Co-op)** · Jan–Apr 2024 · San Francisco Bay Area
-  Built automated wafer-probing system (5 µm Z precision) at \~\$1,100 BOM; reduced IV data-collection time by \~98.48%; developed heating jackets and KiCad PCBs for solenoid control.
+  - Built automated wafer-probing system (5 µm Z precision) at \~\$1,100 BOM; reduced IV data-collection time by \~98.48%; developed heating jackets and KiCad PCBs for solenoid control.
 
 * **PhotoMedicine Labs — Undergraduate Research Assistant (Co-op)** · May–Dec 2023 · Waterloo, ON
-  Designed 20 ns peak-detection circuits with Altium/LTSpice; integrated Ocean Optics Seabreeze C API for pulsed-laser spectrometer acquisition; fabricated laser power supplies.
+  - Designed 20 ns peak-detection circuits with Altium/LTSpice; integrated Ocean Optics Seabreeze C API for pulsed-laser spectrometer acquisition; fabricated laser power supplies.
 
 * **University of Waterloo — Soft Robotics Design Engineer (Co-op)** · Sep–Dec 2022
-  Designed 21-DOF soft/rigid hybrid robotic hand; PCB IMU feedback for joint-angle estimation; novel flexible-hinge solutions.
+  - Designed 21-DOF soft/rigid hybrid robotic hand; PCB IMU feedback for joint-angle estimation; novel flexible-hinge solutions.
 
 * **Ford Motor Company — Firmware Developer (Co-op)** · Jan–Apr 2022 · Ottawa, ON
-  Enhanced automation-testing framework, timing telemetry, and resilience tests.
+  - Enhanced automation-testing framework, timing telemetry, and resilience tests.
 
 * **University of Waterloo Formula Electric — Mechanical Subteam Member** · Sep 2020–Dec 2021
-  Modeled and fitted mechanical parts for competition vehicle; design-bay assembly and testing.
+  - Modeled and fitted mechanical parts for competition vehicle; design-bay assembly and testing.
 
 * **Engineering Ideas Clinic — Research Assistant (Co-op)** · May–Aug 2021
 
@@ -80,8 +80,8 @@ Role: ATmega328 prototype, compact PCB layout, NFC contact handoff, demo firmwar
 
 ## Education
 
-**University of Waterloo** — BASc, Biomedical/Medical Engineering (2020–2025)
-**Great Lakes Secondary School** — OSSD (2016–2020), final average: 96%
+- **University of Waterloo** — BASc, Biomedical/Medical Engineering (2020–2025)
+- **Great Lakes Secondary School** — OSSD (2016–2020), final average: 96%
 
 ---
 
