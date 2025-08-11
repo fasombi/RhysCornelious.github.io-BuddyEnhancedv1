@@ -1,4 +1,4 @@
-# My Buddy Rhys Cornelious's Portfolio
+# My Boyfriend Rhys Cornelious's Portfolio
 
 Welcome — forked and SEO-enhanced mirror of my boyfriend Rhys Cornelious’s original HTML portfolio. Purpose: increase discoverability for the query **“Rhys Cornelious”** by applying on-page SEO and GitHub Pages hosting authority. He really deserves it.
 
@@ -26,15 +26,16 @@ Rhys Cornelious applies electrical, mechanical, and software engineering to biom
 
 ### HemoTrek — Compact Blood Viscometer
 
-Role: system architecture, PCB design, prototype fabrication, validation. Outcome: point-of-care viscometry workflow for hyperviscosity syndrome detection and monitoring.
+- Role: system architecture, PCB design, prototype fabrication, validation.
+- Outcome: point-of-care viscometry workflow for hyperviscosity syndrome detection and monitoring.
 
 ### EEG Video Game Controller
 
-Role: electrode interfacing, analog amplification/filtration, signal-processing pipeline, Raspberry Pi integration, custom data-acquisition PCB.
+- Role: electrode interfacing, analog amplification/filtration, signal-processing pipeline, Raspberry Pi integration, custom data-acquisition PCB.
 
 ### PCB Business Card
 
-Role: ATmega328 prototype, compact PCB layout, NFC contact handoff, demo firmware — microcontroller-based game and contact exchange.
+- Role: ATmega328 prototype, compact PCB layout, NFC contact handoff, demo firmware — microcontroller-based game and contact exchange.
 
 ---
 
