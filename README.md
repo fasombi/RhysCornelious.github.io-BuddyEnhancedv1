@@ -9,10 +9,10 @@ Welcome — forked and SEO-enhanced mirror of my boyfriend Rhys Cornelious’s o
 **Candidate, BASc Biomedical Engineering, University of Waterloo (Class of 2025)**
 Specialties: PCB design, embedded systems, biosensing, medical-device prototyping, signal processing.
 
-**Location:** Waterloo, Ontario, Canada
-**Contact:** [rhyscornelious@gmail.com](mailto:rhyscornelious@gmail.com) · (226) 349-8544
-**GitHub:** [https://github.com/RhysCornelious](https://github.com/RhysCornelious)
-**LinkedIn:** [https://linkedin.com/in/rhys-cornelious](https://linkedin.com/in/rhys-cornelious)
+- **Location:** Waterloo, Ontario, Canada
+- **Contact:** [rhyscornelious@gmail.com](mailto:rhyscornelious@gmail.com) · (226) 349-8544
+- **GitHub:** [https://github.com/RhysCornelious](https://github.com/RhysCornelious)
+- **LinkedIn:** [https://linkedin.com/in/rhys-cornelious](https://linkedin.com/in/rhys-cornelious)
 
 ---
 
