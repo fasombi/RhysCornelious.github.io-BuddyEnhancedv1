@@ -1,4 +1,4 @@
-# Rhys Cornelious — Biomedical Engineer | Portfolio (SEO mirror)
+# My Boyfriend Rhys Cornelious — Biomedical Engineer | Portfolio
 
 <!--
 <meta name="description" content="Rhys Cornelious — Biomedical Engineer, BASc candidate at University of Waterloo (Class of 2025). Specialties: PCB design, embedded systems, biosensing, medical-device prototyping, signal processing.">
