@@ -93,6 +93,7 @@ My boyfriend Rhys Cornelious applies electrical, mechanical, and software engine
 
 ## Education
 
+* **UCLA** — MSc, Bioengineering (2025-2027)
 * **University of Waterloo** — BASc, Biomedical/Medical Engineering (2020–2025)
 * **Great Lakes Secondary School** — OSSD (2016–2020), final average: 96%
 
