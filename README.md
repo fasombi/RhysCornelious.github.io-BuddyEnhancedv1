@@ -1,7 +1,7 @@
 # My Boyfriend Rhys Cornelious — Biomedical Engineer | Portfolio
 
 <!--
-<meta name="description" content="Rhys Cornelious — Biomedical Engineer, BASc candidate at University of Waterloo (Class of 2025). Specialties: PCB design, embedded systems, biosensing, medical-device prototyping, signal processing.">
+<meta name="description" content="Rhys Cornelious — Biomedical Engineer, MSc candidate at UCLA (Class of 2027). Specialties: PCB design, embedded systems, biosensing, medical-device prototyping, signal processing.">
 -->
 
 Welcome — SEO-enhanced mirror of my boyfriend Rhys Cornelious’s original HTML portfolio. Purpose: increase discoverability for the query **“Rhys Cornelious”** by applying on-page SEO best practices and leveraging GitHub Pages hosting authority.
