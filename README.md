@@ -12,7 +12,7 @@ Welcome — SEO-enhanced mirror of my boyfriend Rhys Cornelious’s original HTM
 
 ## Rhys Cornelious — Biomedical Engineering Student, University of Waterloo
 
-**Candidate, BASc Biomedical Engineering, University of Waterloo (Class of 2025)**
+**Candidate, MSc Bioengineering, UCLA (Class of 2027)**
 Specialties: PCB design, embedded systems, biosensing, medical-device prototyping, signal processing.
 
 * **Location:** Waterloo, Ontario, Canada
